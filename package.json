@@ -1,0 +1,9 @@
+{
+  "name": "segundas-vias-glencore",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weighbridge ticket generator with shared ticket history, deployed on Vercel.",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
